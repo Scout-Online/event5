@@ -84,7 +84,7 @@
 </div>
 <div class="column-2">
     <h1>Over ons</h1>
-    <p>Super dat u interesse heeft in onze presentatie. Wij zijn 4 jongeren die afgelopen jaar in samenwerking met DEAC Teuge onderzoek hebben gedaan naar de intergratie van waterstof op GA-vliegvelden. Onze presentatie zal plaatsvinden op 12 april om 16:00 uur. Deze presentatie zal ongeveer een half uurtje duren, waarin wij proberen u zoveel mogelijk bij te leren over waterstof op vliegvelden </p>
+    <p>Super dat u interesse heeft in onze presentatie. Wij zijn 4 jongeren die afgelopen jaar in samenwerking met DEAC Teuge onderzoek hebben gedaan naar de integratie van waterstof op GA-vliegvelden. Onze presentatie zal plaatsvinden op 12 april om 16:00 uur. Deze presentatie zal ongeveer een half uurtje duren, waarin wij proberen u zoveel mogelijk bij te leren over waterstof op vliegvelden </p>
     <p>Graag zien we u 12 april.</p>
     <p>Met vriendleijke groet, Bram Teunis, Maurits van der molen, Jochem Kleverwal, Mette Bouma</p>
 </div>
