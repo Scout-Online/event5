@@ -103,7 +103,7 @@
 	  padding: 40px;
 	  padding-left:70px;
 	  padding-right: 70px;
-	  height: 475px;
+	  height: auto;
 	  margin:30px;
 	  margin-right:30px;
 	  margin-bottom: 70px;
