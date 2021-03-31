@@ -90,6 +90,74 @@
     <p>Met vriendleijke groet,</p>
     <p>Bram Teunis, Maurits van der Molen, Jochem Kleverwal en Mette Bouma</p>
 </div>
+<style>
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  side: right;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background: -webkit-linear-gradient(#00d0ff, #25ffbf);
+  color: black;
+}
+#highlight td{
+	background-color: #FEDE00;
+}
+#highlight td:hover{
+background-color:#ffff66
+}
+</style>
+
+<table id="customers">
+  <tr>
+    <th>Tijd</th>
+    <th>Presentatie</th>
+  </tr>
+  <tr>
+    <td>14:00-14:15</td>
+    <td>Algemene introductie alle presentaties</td>
+  </tr>
+  <tr>
+    <td>14:15-16:00</td>
+    <td>Presentaties andere onderzoeken</td>
+  </tr>
+  <tr id="highlight">
+    <td >16:00-16:05</td>
+    <td >Introductie over ons en ons onderzoek</td>
+  </tr>
+  <tr id="highlight">
+    <td>16:05-16:30</td>
+    <td>Presentatie over waterstof</td>
+  </tr>
+  <tr id="highlight">
+    <td>16:30-16:45</td>
+    <td>Mogelijkheid tot vragen</td>
+  </tr>
+  <tr>
+    <td>16:45-17:00</td>
+    <td>Introductie nieuwe presesntatie</td>
+  </tr>
+  <tr>
+    <td>17:00-18:00</td>
+    <td>Andere presentaties</td>
+  </tr>
+</table>
+	
+	
 <style type="text/css">
 	* {
 	  box-sizing: border-box;
@@ -113,6 +181,7 @@
 	}
 </style>
 
+	
 <script type='text/javascript' src='jquery.js'></script>
 <script type='text/javascript' src='masonry.pkgd.min.js'></script>
 <script type='text/javascript' src='jquery.collapsible.min.js'></script>
