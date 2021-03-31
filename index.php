@@ -94,9 +94,16 @@
 #customers {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
-  width: 50%;
+  width: 45%;
   side: left;
 color: black;
+	padding: 40px;
+	  padding-left:70px;
+	  padding-right: 70px;
+	  height: auto;
+	  margin:30px;
+	  margin-right:30px;
+	  margin-bottom: 70px;
 }
 
 #customers td, #customers th {
