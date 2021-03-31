@@ -150,7 +150,7 @@ background-color:#ffff66
 
 <table id="customers">
   <tr>
-    <th>Tijd</th>
+    <th>Hoogstwaarschijnlijke Tijden</th>
     <th>Presentatie</th>
   </tr>
   <tr>
@@ -158,19 +158,19 @@ background-color:#ffff66
     <td>Algemene introductie alle presentaties</td>
   </tr>
   <tr>
-    <td>14:15-16:00</td>
+    <td>14:15-16:10</td>
     <td>Presentaties andere onderzoeken</td>
   </tr>
   <tr id="highlight">
-    <td >16:00-16:05</td>
+    <td >16:10-16:15</td>
     <td >Introductie over ons en ons onderzoek</td>
   </tr>
   <tr id="highlight">
-    <td>16:05-16:25</td>
+    <td>16:15-16:40</td>
     <td>Presentatie over waterstof</td>
   </tr>
   <tr id="highlight">
-    <td>16:25-16:35</td>
+    <td>16:40-16:50</td>
     <td>Mogelijkheid tot vragen</td>
   </tr>
   <tr>
