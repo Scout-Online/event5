@@ -166,19 +166,19 @@ background-color:#ffff66
     <td >Introductie over ons en ons onderzoek</td>
   </tr>
   <tr id="highlight">
-    <td>16:05-16:30</td>
+    <td>16:05-16:25</td>
     <td>Presentatie over waterstof</td>
   </tr>
   <tr id="highlight">
-    <td>16:30-16:45</td>
+    <td>16:25-16:35</td>
     <td>Mogelijkheid tot vragen</td>
   </tr>
   <tr>
-    <td>16:45-17:00</td>
-    <td>Introductie nieuwe presesntatie</td>
+    <td id="highlight">16:35-16:45</td>
+    <td>Afronding presesntatie</td>
   </tr>
   <tr>
-    <td>17:00-18:00</td>
+    <td>16:45-18:00</td>
     <td>Andere presentaties</td>
   </tr>
 </table>
