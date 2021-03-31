@@ -95,7 +95,8 @@
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 50%;
-  side: right;
+  side: left;
+color: black;
 }
 
 #customers td, #customers th {
@@ -167,7 +168,7 @@ background-color:#ffff66
 	/* Create two equal columns that float next to each other */
 	.column-2 {
 		
-	  float: center;
+	  float: right;
 	  width: 45%;
 	  padding: 40px;
 	  padding-left:70px;
