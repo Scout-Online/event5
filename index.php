@@ -91,6 +91,14 @@
     <p>Bram Teunis, Maurits van der Molen, Jochem Kleverwal en Mette Bouma</p>
 </div>
 <style>
+.hero-content .entry-footer .btn {
+    background: hsl(0, 0%, 100%);
+    padding: 16px 40px;
+    border-radius: 0;
+    margin-left: 20px;
+    color: hsl(0, 0%, 17%);
+    font-weight: 600;
+}
 #customers {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
