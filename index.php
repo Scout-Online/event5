@@ -134,6 +134,7 @@ $('.reset').on('click', function() {
 </div>
 </div>
 </div>
+
 <div class="column-2">
     <h1>Over ons</h1>
     <p>Super dat u interesse heeft in onze presentatie. Wij zijn 4 jonge studenten die afgelopen jaar in samenwerking met DEAC Teuge onderzoek hebben gedaan naar de integratie van waterstof op GA-vliegvelden. Onze presentatie zal plaatsvinden op 12 april om 16:00 uur. Deze presentatie zal ongeveer een half uur duren, waarin wij proberen u zoveel mogelijk bij te leren over de integratie van waterstof op GA-vliegvelden.</p>
@@ -141,6 +142,24 @@ $('.reset').on('click', function() {
     <p>Met vriendleijke groet,</p>
     <p>Bram Teunis, Maurits van der Molen, Jochem Kleverwal en Mette Bouma</p>
 </div>
+<div class="column-3">
+    <h1>Realisatie Waterstof op General-Aviation Vliegvelden (samenvatting)</h1>
+    <h3>Een onderzoeksrapport naar de integratie van waterstof op GA-luchthavens.</h3>
+    <p>Voor het onderzoek naar de implementatie van waterstof in de luchtvaart hebben we gekeken naar vier aspecten en daar een integratie van gemaakt. De vier belangrijke aspecten zijn: de productie van waterstof, het transport van waterstof, de opslag van waterstof en het tanken van waterstof. </p>
+    <p>Bij het produceren van waterstof zijn er verschillende mogelijke methodes. Onder deze methodes zijn de meest noemenswaardige methodes de elektrolysers. Deze methodes maken gebruik van elektrische energie, wat zorgt voor een splitsing van een watermolecuul. Deze methodes zijn goed voor het milieu, omdat ze geen koolstofdioxide uitstoten. Ook staat in het rapport wat de beste locatie voor een installatie zou zijn. Op korte termijn is dat op het vliegveld zelf, omdat de infrastructuur nog niet daar is. Op langer termijn kan waterstof in een fabriek geproduceerd worden. Dit is een efficiëntere manier van produceren, omdat er sprake is van een massavoordeel. </p>
+    <p>Het tweede aspect is transporteren. Bij het transporteren van waterstof zijn er verschillende mogelijkheden, echter zijn ze niet allemaal even effectief. Het transporteren van waterstof via een vrachtwagen kan tot moeilijkheden lijden, dit komt door de hoge compressie en lage temperatuur waarin de waterstof moet worden getransporteerd. Waterstof zou ook in de bestaande leidingen van gas kunnen worden vervoerd hier zijn wel een paar aanpassingen voor nodig. De leidingen moeten bijvoorbeeld een nieuwe binnenlaag krijgen om ervoor te zorgen dat er geen waterstof lekt. </p>
+    <p>Bij het opslaan van waterstof zijn de mogelijkheden opgesplitst in twee onderdelen, waaronder: Physical-based en Material-based. De Material-based opslag kan pas op langer termijn worden gerealiseerd, omdat het nu nog niet effectief genoeg is. De Physical-based, de grote opslag tanken en bijvoorbeeld zoutgrotten, kunnen echter wel op korte termijn gerealiseerd worden. De tanken kunnen makkelijk op locatie gebruikt worden en de zoutgrotten kunnen grote hoeveelheden aan waterstof opslaan. De waterstof wordt, zowel in de grotten als in de tank, in gasvormige substantie gehouden, dit betekent dat het niet tot het smeltpunt moet worden gekoeld. Dit kost namelijk veel energie en is op dit moment nog niet rendabel genoeg. </p>
+	<p>Het tanken van waterstof is het laatste aspect wat staat beschreven in het rapport. Het tanken van waterstof kan je vergelijken met het tanken van LPG. Alleen bij het tanken van waterstof is de druk vele malen hoger. De tankinstallatie kan tot wel een druk van 700 bar tanken, dit is genoeg om voor een reële hoeveelheid energie in de tank. Daarnaast moeten er bij het tanken van vliegtuigen op het vliegveld verschillende leidingen worden aangepast om ze voor waterstof beschikbaar te maken.  </p>
+	<p></p>
+	<p>Contactgegevens</p>
+	<p>Auteur:		Bram Teunis, Jochem Kleverwal, Maurits van der Molen en Mette Bouma </p>
+	<p>Functie:		Meesterproef bij DEAC  </p>
+	<p>Organisatie:		Veluws College Walterbosch </p>
+	<p>E-mail adres:	bramteunis@leerling.veluwscollege.nl </p>
+	<p>			jochemkleverwal@leerling.veluwscollege.nl </p>
+	<p>			mauritsvandermolen@leerling.veluwscollege.nl </p>
+	<p>			mettebouma@leerling.veluwscollege.nl </p>
+	</div>
 <style>
 .hero-content .entry-footer {
     margin-top: 125px;
@@ -192,7 +211,7 @@ color: black;
   color: black;
 }
 #highlight td{
-	background-color: #FEDE00;
+	background-color: #75cc2c;
 }
 #highlight td:hover{
 background-color:#ffff66
@@ -240,6 +259,7 @@ background-color:#ffff66
 	  box-sizing: border-box;
 	}
 	h1 {color: black;}
+	h3 {color: black;}
 	p {color: black;}
 	/* Create two equal columns that float next to each other */
 	.column-2 {
@@ -253,7 +273,21 @@ background-color:#ffff66
 	  margin:30px;
 	  margin-right:30px;
 	  margin-bottom: 70px;
-	  background-color: #FEDE00;
+	  background-color: #75cc2c;
+	  line-height:2;
+	}
+	.column-3 {
+		
+	  float: center;
+	  width: 90%;
+	  padding: 40px;
+	  padding-left:70px;
+	  padding-right: 70px;
+	  height: auto;
+	  margin:30px;
+	  margin-right:30px;
+	  margin-bottom: 70px;
+	  background-color: #75cc2c;
 	  line-height:2;
 	}
 </style>
