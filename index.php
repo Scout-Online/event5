@@ -9,9 +9,9 @@
 
 <link rel="stylesheet" href="bootstrap.min.css">
 
-<link rel="stylesheet" href="fontawesome-all.min.css">
+<!--  <link rel="stylesheet" href="fontawesome-all.min.css">
 
-<link rel="stylesheet" href="swiper.min.css">
+ <link rel="stylesheet" href="swiper.min.css"> -->
 
 <link rel="stylesheet" href="style.css">
 </head>
@@ -259,16 +259,16 @@ background-color:#ffff66
 </style>
 
 	
-<script type='text/javascript' src='jquery.js'></script>
+<!--<script type='text/javascript' src='jquery.js'></script>
 <script type='text/javascript' src='masonry.pkgd.min.js'></script>
 <script type='text/javascript' src='jquery.collapsible.min.js'></script>
-<script type='text/javascript' src='swiper.min.js'></script>
+<script type='text/javascript' src='swiper.min.js'></script> --> 
 <script type='text/javascript' src='jquery.countdown.min.js'></script>
-<script type='text/javascript' src='circle-progress.min.js'></script>
+<!-- <script type='text/javascript' src='circle-progress.min.js'></script>
 <script type='text/javascript' src='jquery.countTo.min.js'></script>
-<script type='text/javascript' src='custom.js'></script>
+<script type='text/javascript' src='custom.js'></script> 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>-->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
