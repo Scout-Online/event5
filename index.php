@@ -298,9 +298,9 @@ background-color:#ffff66
 <script type='text/javascript' src='jquery.collapsible.min.js'></script>
 <script type='text/javascript' src='swiper.min.js'></script> --> 
 <script type='text/javascript' src='jquery.countdown.min.js'></script>
-<!-- <script type='text/javascript' src='circle-progress.min.js'></script>
+<!-- <script type='text/javascript' src='circle-progress.min.js'></script>-->
 <script type='text/javascript' src='jquery.countTo.min.js'></script>
-<script type='text/javascript' src='custom.js'></script> 
+<!--<script type='text/javascript' src='custom.js'></script> 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>-->
 <script>
