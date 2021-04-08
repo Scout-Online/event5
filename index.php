@@ -281,8 +281,8 @@ background-color:#ffff66
 	  float: center;
 	  width: 90%;
 	  padding: 40px;
-	  padding-left:70px;
-	  padding-right: 70px;
+	  padding-left:5%;
+	  padding-right: 5%;
 	  height: auto;
 	  margin:30px;
 	  margin-right:30px;
