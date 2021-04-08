@@ -18,7 +18,7 @@
 <body>
 	<style>
 	$success: #2ecc71;
-$warning: #e67e22;
+$warning: #cf6d17;
 $danger: #e74c34;
 $grey: #cccccc;
 
@@ -284,8 +284,8 @@ background-color:#ffff66
 	  padding-left:5%;
 	  padding-right: 5%;
 	  height: auto;
-	  margin:30px;
-	  margin-right:30px;
+	  margin:5%;
+	  margin-right:5%;
 	  margin-bottom: 70px;
 	  background-color: #75cc2c;
 	  line-height:2;
