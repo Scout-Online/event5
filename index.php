@@ -42,7 +42,7 @@ $grey: #cccccc;
   'danger': $danger
 ) {
   .alert-#{$name} {
-    background-color: $color;
+    background-color: #cf6d17;
 	  text-align: center;
   }
 }
@@ -244,15 +244,15 @@ background-color:#ffff66
     <p>Het tweede aspect is transporteren. Bij het transporteren van waterstof zijn er verschillende mogelijkheden, echter zijn ze niet allemaal even effectief. Het transporteren van waterstof via een vrachtwagen kan tot moeilijkheden lijden, dit komt door de hoge compressie en lage temperatuur waarin de waterstof moet worden getransporteerd. Waterstof zou ook in de bestaande leidingen van gas kunnen worden vervoerd hier zijn wel een paar aanpassingen voor nodig. De leidingen moeten bijvoorbeeld een nieuwe binnenlaag krijgen om ervoor te zorgen dat er geen waterstof lekt. </p>
     <p>Bij het opslaan van waterstof zijn de mogelijkheden opgesplitst in twee onderdelen, waaronder: Physical-based en Material-based. De Material-based opslag kan pas op langer termijn worden gerealiseerd, omdat het nu nog niet effectief genoeg is. De Physical-based, de grote opslag tanken en bijvoorbeeld zoutgrotten, kunnen echter wel op korte termijn gerealiseerd worden. De tanken kunnen makkelijk op locatie gebruikt worden en de zoutgrotten kunnen grote hoeveelheden aan waterstof opslaan. De waterstof wordt, zowel in de grotten als in de tank, in gasvormige substantie gehouden, dit betekent dat het niet tot het smeltpunt moet worden gekoeld. Dit kost namelijk veel energie en is op dit moment nog niet rendabel genoeg. </p>
 	<p>Het tanken van waterstof is het laatste aspect wat staat beschreven in het rapport. Het tanken van waterstof kan je vergelijken met het tanken van LPG. Alleen bij het tanken van waterstof is de druk vele malen hoger. De tankinstallatie kan tot wel een druk van 700 bar tanken, dit is genoeg om voor een reële hoeveelheid energie in de tank. Daarnaast moeten er bij het tanken van vliegtuigen op het vliegveld verschillende leidingen worden aangepast om ze voor waterstof beschikbaar te maken.  </p>
-	<p></p>
-	<p>Contactgegevens</p>
-	<p>Auteur:		Bram Teunis, Jochem Kleverwal, Maurits van der Molen en Mette Bouma </p>
-	<p>Functie:		Meesterproef bij DEAC  </p>
-	<p>Organisatie:		Veluws College Walterbosch </p>
-	<p>E-mail adres:	bramteunis@leerling.veluwscollege.nl </p>
-	<p>			jochemkleverwal@leerling.veluwscollege.nl </p>
-	<p>			mauritsvandermolen@leerling.veluwscollege.nl </p>
-	<p>			mettebouma@leerling.veluwscollege.nl </p>
+	<p> </p>
+	<h4>Contactgegevens</h4>
+	<p>Auteur:              Bram Teunis, Jochem Kleverwal, Maurits van der Molen en Mette Bouma </p>
+	<p>Functie:             Meesterproef bij DEAC  </p>
+	<p>Organisatie:         Veluws College Walterbosch </p>
+	<p>E-mail adres:        bramteunis@leerling.veluwscollege.nl </p>
+	<p>                     jochemkleverwal@leerling.veluwscollege.nl </p>
+	<p>                     mauritsvandermolen@leerling.veluwscollege.nl </p>
+	<p>                     mettebouma@leerling.veluwscollege.nl </p>
 	</div>	
 <style type="text/css">
 	* {
