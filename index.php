@@ -9,9 +9,9 @@
 
 <link rel="stylesheet" href="bootstrap.min.css">
 
-<!--  <link rel="stylesheet" href="fontawesome-all.min.css">
+<!--  <link rel="stylesheet" href="fontawesome-all.min.css"> -->
 
- <link rel="stylesheet" href="swiper.min.css"> -->
+ <link rel="stylesheet" href="swiper.min.css">
 
 <link rel="stylesheet" href="style.css">
 </head>
