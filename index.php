@@ -294,7 +294,7 @@ background-color:#ffff66
 
 	
 <script type='text/javascript' src='jquery.js'></script>
-<script type='text/javascript' src='masonry.pkgd.min.js'></script>
+<!--<script type='text/javascript' src='masonry.pkgd.min.js'></script>-->
 <script type='text/javascript' src='jquery.collapsible.min.js'></script>
 <script type='text/javascript' src='swiper.min.js'></script> 
 <script type='text/javascript' src='jquery.countdown.min.js'></script>
