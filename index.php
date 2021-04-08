@@ -16,6 +16,58 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+	<style>
+	$success: #2ecc71;
+$warning: #e67e22;
+$danger: #e74c34;
+$grey: #cccccc;
+
+.alert {
+	text-align: center;
+  position: relative;
+  border-radius: 5px;
+	text-align: center;
+  box-sizing: border-box;
+  color: white;
+  font-size: 1.5em;
+  margin: 0 auto;
+  margin-bottom: 1em;
+  padding: 1em;
+  width: calc(100% - 100px);
+}
+
+@each $name, $color in(
+  'success': $success,
+  'warning': $warning,
+  'danger': $danger
+) {
+  .alert-#{$name} {
+    background-color: $color;
+	  text-align: center;
+  }
+}
+
+
+
+
+
+
+
+
+</style>
+<div class="alert alert-warning">
+	<strong>Belangrijk!</strong> - De stream zal vanwege uitloop 10 minuten later starten (16:10). Sorry voor het ongemak.</div>
+	<script>
+		$('.close').on('click', function() {
+  $(this).parent('.alert').hide();
+});
+
+$('.reset').on('click', function() {
+  $('.alert').show();
+});
+
+	</script>
+</div>
 <header class="site-header">
 <div class="header-bar">
 <div class="container-fluid">
