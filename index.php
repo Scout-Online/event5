@@ -251,7 +251,7 @@ background-color:#ffff66
 	<p>Functie:             Meesterproef bij DEAC  </p>
 	<p>Organisatie:         Veluws College Walterbosch </p>
 	<p>E-mail adres:        bramteunis@leerling.veluwscollege.nl </p>
-	<p>                     jochemkleverwal@leerling.veluwscollege.nl </p>
+	<p><strong style="p{color:#cf6d17}"><p>Organisatie:</p></strong>                     jochemkleverwal@leerling.veluwscollege.nl </p>
 	<p>                     mauritsvandermolen@leerling.veluwscollege.nl </p>
 	<p>                     mettebouma@leerling.veluwscollege.nl </p>
 	</div>	
