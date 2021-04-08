@@ -103,7 +103,7 @@ $('.reset').on('click', function() {
 <h2>onze stream begint over:</h2>
 
 </div>
-<div class="countdown flex flex-wrap justify-content-between" data-date="2021/04/12 16:00">
+<div class="countdown flex flex-wrap justify-content-between" data-date="2021/04/12 16:10">
 <div class="countdown-holder">
 <div class="dday"></div>
 <label>Dagen</label>
