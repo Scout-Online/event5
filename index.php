@@ -127,8 +127,8 @@ $('.reset').on('click', function() {
 <div class="col-12 ">
 <div class="entry-footer">
 
-<a title="Add to Calendar" class="addeventatc" data-id="Zg6229695" href="https://www.addevent.com/event/Zg6229695" target="_blank" rel="nofollow">Toevoegen aan kalender</a> <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
-<a href="error.html" class="btn current">Deelnemen aan livestream</a>
+
+<a href="https://www.youtube.com/watch?v=EOIheHEWbhI" class="btn current">Deelnemen aan livestream</a>
 <a href="https://drive.google.com/uc?id=1xu5_-Ive9p4zo6RRgtY-eYpTQE8Nn6U1&export=download" class="btn current">Verslag download</a>
 </div>
 </div>
