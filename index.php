@@ -135,7 +135,8 @@ $('.reset').on('click', function() {
 </div>
 </div>
 </div>
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/EOIheHEWbhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 <div class="column-2">
     <h1>Over ons</h1>
     <p>Super dat u interesse heeft in onze presentatie. Wij zijn 4 jonge studenten die afgelopen jaar in samenwerking met DEAC Teuge onderzoek hebben gedaan naar de integratie van waterstof op GA-vliegvelden. Onze presentatie zal plaatsvinden op 12 april om 16:00 uur. Deze presentatie zal ongeveer een half uur duren, waarin wij proberen u zoveel mogelijk bij te leren over de integratie van waterstof op GA-vliegvelden.</p>
