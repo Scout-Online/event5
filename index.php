@@ -100,10 +100,10 @@ $('.reset').on('click', function() {
 <div class="row">
 <div class="col-12 offset-lg-2 col-lg-10">
 <div class="entry-header">
-<h2>onze stream begint over:</h2>
+<h2>Deac Waterstof presentatie</h2>
 
 </div>
-<div class="countdown flex flex-wrap justify-content-between" data-date="2021/04/12 16:10">
+<?-- <div class="countdown flex flex-wrap justify-content-between" data-date="2021/04/12 16:10">  
 <div class="countdown-holder">
 <div class="dday"></div>
 <label>Dagen</label>
@@ -119,7 +119,7 @@ $('.reset').on('click', function() {
 <div class="countdown-holder">
 <div class="dsec"></div>
 <label>Seconden</label>
-</div>
+</div> --> 
 </div>
 </div>
 </div>
@@ -128,7 +128,7 @@ $('.reset').on('click', function() {
 <div class="entry-footer">
 
 
-<a href="https://www.youtube.com/watch?v=EOIheHEWbhI"  rel="external" class="btn current">Deelnemen aan livestream</a>
+<a href="https://youtu.be/UG9N4M3MAx0"  rel="external" class="btn current">Livestream terug kijken</a>
 <a href="https://drive.google.com/uc?id=1xu5_-Ive9p4zo6RRgtY-eYpTQE8Nn6U1&export=download" class="btn current">Download verslag</a>
 </div>
 </div>
@@ -136,7 +136,7 @@ $('.reset').on('click', function() {
 </div>
 </div>
 	
-<div class="column-2">
+<div class="column-3">
     <h1>Over ons</h1>
     <p>Super dat u interesse heeft in onze presentatie. Wij zijn 4 jonge studenten die afgelopen jaar in samenwerking met DEAC Teuge onderzoek hebben gedaan naar de integratie van waterstof op GA-vliegvelden. Onze presentatie zal plaatsvinden op 12 april om 16:00 uur. Deze presentatie zal ongeveer een half uur duren, waarin wij proberen u zoveel mogelijk bij te leren over de integratie van waterstof op GA-vliegvelden.</p>
     <p>Graag zien we u 12 april.</p>
@@ -202,41 +202,7 @@ background-color:#ffff66
 }
 </style>
 
-<table id="customers">
-  <tr>
-    <th>Hoogstwaarschijnlijke Tijden</th>
-    <th>Presentatie</th>
-  </tr>
-  <tr>
-    <td>14:00-14:15</td>
-    <td>Algemene introductie alle presentaties</td>
-  </tr>
-  <tr>
-    <td>14:15-16:10</td>
-    <td>Presentaties andere onderzoeken</td>
-  </tr>
-  <tr id="highlight">
-    <td >16:10-16:15</td>
-    <td >Introductie over ons en ons onderzoek</td>
-  </tr>
-  <tr id="highlight">
-    <td>16:15-16:40</td>
-    <td>Presentatie over waterstof</td>
-  </tr>
-  <tr id="highlight">
-    <td>16:40-16:50</td>
-    <td>Mogelijkheid tot vragen</td>
-  </tr>
-  <tr>
-    <td id="highlight">16:35-16:45</td>
-    <td>Afronding presesntatie</td>
-  </tr>
-  <tr>
-    <td>16:45-18:00</td>
-    <td>Andere presentaties</td>
-  </tr>
-</table>
-	
+
 <div class="column-3">
     <h1>Realisatie Waterstof op General-Aviation Vliegvelden (samenvatting)</h1>
     <h3>Een onderzoeksrapport naar de integratie van waterstof op GA-luchthavens.</h3>
