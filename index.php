@@ -197,12 +197,45 @@ background-color:#ffff66
 <div class="column-3">
     <h1>Realisatie Waterstof op General-Aviation Vliegvelden (samenvatting)</h1>
     <h3>Een onderzoeksrapport naar de integratie van waterstof op GA-luchthavens.</h3>
-    <p>Voor het onderzoek naar de implementatie van waterstof in de luchtvaart hebben we gekeken naar vier aspecten en daar een integratie van gemaakt. De vier belangrijke aspecten zijn: de productie van waterstof, het transport van waterstof, de opslag van waterstof en het tanken van waterstof. </p>
-    <p>Bij het produceren van waterstof zijn er verschillende mogelijke methodes. Onder deze methodes zijn de meest noemenswaardige methodes de elektrolysers. Deze methodes maken gebruik van elektrische energie, wat zorgt voor een splitsing van een watermolecuul. Deze methodes zijn goed voor het milieu, omdat ze geen koolstofdioxide uitstoten. Ook staat in het rapport wat de beste locatie voor een installatie zou zijn. Op korte termijn is dat op het vliegveld zelf, omdat de infrastructuur nog niet daar is. Op langer termijn kan waterstof in een fabriek geproduceerd worden. Dit is een efficiëntere manier van produceren, omdat er sprake is van een massavoordeel. </p>
-    <p>Het tweede aspect is transporteren. Bij het transporteren van waterstof zijn er verschillende mogelijkheden, echter zijn ze niet allemaal even effectief. Het transporteren van waterstof via een vrachtwagen kan tot moeilijkheden lijden, dit komt door de hoge compressie en lage temperatuur waarin de waterstof moet worden getransporteerd. Waterstof zou ook in de bestaande leidingen van gas kunnen worden vervoerd hier zijn wel een paar aanpassingen voor nodig. De leidingen moeten bijvoorbeeld een nieuwe binnenlaag krijgen om ervoor te zorgen dat er geen waterstof lekt. </p>
-    <p>Bij het opslaan van waterstof zijn de mogelijkheden opgesplitst in twee onderdelen, waaronder: Physical-based en Material-based. De Material-based opslag kan pas op langer termijn worden gerealiseerd, omdat het nu nog niet effectief genoeg is. De Physical-based, de grote opslag tanken en bijvoorbeeld zoutgrotten, kunnen echter wel op korte termijn gerealiseerd worden. De tanken kunnen makkelijk op locatie gebruikt worden en de zoutgrotten kunnen grote hoeveelheden aan waterstof opslaan. De waterstof wordt, zowel in de grotten als in de tank, in gasvormige substantie gehouden, dit betekent dat het niet tot het smeltpunt moet worden gekoeld. Dit kost namelijk veel energie en is op dit moment nog niet rendabel genoeg. </p>
-	<p>Het tanken van waterstof is het laatste aspect wat staat beschreven in het rapport. Het tanken van waterstof kan je vergelijken met het tanken van LPG. Alleen bij het tanken van waterstof is de druk vele malen hoger. De tankinstallatie kan tot wel een druk van 700 bar tanken, dit is genoeg om voor een reële hoeveelheid energie in de tank. Daarnaast moeten er bij het tanken van vliegtuigen op het vliegveld verschillende leidingen worden aangepast om ze voor waterstof beschikbaar te maken.  </p>
+    <p>Voor het onderzoek naar de implementatie van waterstof in de kleine luchtvaart hebben we gekeken naar vier aspecten en daar een intergratie van gemaakt. De vier belangrijke aspecten zijn: de productie van waterstof, het transport van waterstof, de opslag van waterstof en het tanken van waterstof. Bij al deze aspecten hebben een afweging gemaakt, op deze manier hebben we conclusies kunnen trekken voor de beste methodes.</p>
+    <p>Bij het produceren van waterstof zijn er verschillende mogelijke methodes. Onder
+deze methodes zijn de meest noemenswaardige methodes de Elektrolysers. Deze
+methodes maken gebruik van elektrische energie, wat zorgt voor een splitsing van
+een watermolecuul. Deze methodes zijn goed voor het milieu, omdat ze geen
+koolstofdioxide uitstoten. Ook staat in het volledige rapport wat de beste locatie
+voor een installatie is. Op korte termijn is dat op het vliegveld zelf, omdat de
+infrastructuur nog niet daar is. Op langer termijn kan waterstof in een fabriek
+geproduceerd worden. Dit is een efficiëntere manier van produceren, omdat er
+sprake is van een massavoordeel. Dit betekent dat er op grotere schaal een hoger
+rendement behaald kan worden met de productie van waterstof</p>
+    <p>Het tweede aspect is transporteren. Bij het transporteren van waterstof zijn er
+verschillende mogelijkheden, echter zijn ze niet allemaal even effectief. Het
+transporteren van waterstof via een vrachtwagen kan tot knelpunten lijden, dit
+komt door de hoge compressie en lage temperatuur waarin de waterstof vervoert
+moet worden. Waterstof zou ook in de bestaande leidingen van gas kunnen
+worden vervoert, hier zijn wel een paar aanpassingen voor nodig. De leidingen
+moeten bijvoorbeeld een nieuwe binnenlaag krijgen om er voor te zorgen dat er
+geen waterstof door de leiding heen lekt. </p>
+    <p>Bij het opslaan van waterstof zijn de mogelijkheden opgesplitst in twee
+onderdelen, waaronder: Physical-based en Material-based. De Material-based
+opslag kan pas op langer termijn worden gerealiseerd, omdat het nu nog niet
+effectief genoeg is. De Physical-based, de grote opslag tanken en bijvoorbeeld
+zoutgrotten, kunnen echter wel op korte termijn gerealiseerd worden. De tanken
+kunnen makkelijk op locatie gebruikt worden en de zoutgrotten kunnen grote
+hoeveelheden aan waterstof opslaan. Het waterstof wordt, zowel in de grotten als
+in de tank, in gasvormige substantie gehouden, dit betekent dat het niet tot het
+smeltpunt moet worden gekoeld. Dit kost namelijk veel energie en is op dit
+moment nog niet rendabel genoeg.</p>
+	<p>Het tanken van waterstof is het laatste aspect wat staat beschreven in het rapport.
+Het tanken van waterstof kan je vergelijken met het tanken van LPG. Alleen bij het
+tanken van waterstof is de druk vele malen hoger. De tankinstallatie kan tot wel
+een druk van 700 bar tanken, dit is genoeg om voor een reeële hoeveelheid
+energie in de tank te zorgen. Daarnaast moeten er bij het tanken van vliegtuigen op
+het vliegveld verschillende leidingen worden aangepast om ze voor waterstof
+beschikbaar te maken. </p>
 	<p> </p>
+</div>
+	<div class="column-3">
 	<h4>Contactgegevens</h4>
 	<p>Auteur:              Bram Teunis, Jochem Kleverwal, Maurits van der Molen en Mette Bouma </p>
 	<p>Functie:             Meesterproef bij DEAC  </p>
