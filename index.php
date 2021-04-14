@@ -56,16 +56,7 @@ text-align: center;
 
 
 </style>
-<div class="alert alert-warning">
-	<strong>Belangrijk!</strong> - De stream zal vanwege uitloop 10 minuten later starten (16:10). Sorry voor het ongemak.</div>
-	<script>
-		$('.close').on('click', function() {
-  $(this).parent('.alert').hide();
-});
 
-$('.reset').on('click', function() {
-  $('.alert').show();
-});
 
 	</script>
 </div>
