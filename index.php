@@ -236,7 +236,7 @@ beschikbaar te maken. </p>
 	<p> </p>
 </div>
 	<div class="column-3">
-	<h4>Contactgegevens</h4>
+	<h1>Contactgegevens</h4>
 	<p>Auteur:              Bram Teunis, Jochem Kleverwal, Maurits van der Molen en Mette Bouma </p>
 	<p>Functie:             Meesterproef bij DEAC  </p>
 	<p>Organisatie:         Veluws College Walterbosch </p>
@@ -251,6 +251,7 @@ beschikbaar te maken. </p>
 	}
 	h1 {color: black;}
 	h3 {color: black;}
+	
 	p {color: black;}
 	/* Create two equal columns that float next to each other */
 	.column-2 {
